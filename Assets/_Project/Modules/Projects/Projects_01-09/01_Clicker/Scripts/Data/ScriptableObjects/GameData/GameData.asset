@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca1bc63bbb2f33141bd932a57a3a2e8c, type: 3}
+  m_Name: GameData
+  m_EditorClassIdentifier: Assembly-CSharp::ClickerGame.Gamedata
+  MoneyText: {fileID: 0}
+  MoneyPerClickText: {fileID: 0}
+  ClickUpgradeCostText: {fileID: 0}
+  AutoClickerCostText: {fileID: 0}
+  AutoClickerUpgradeSpeedCostText: {fileID: 0}
+  AutoClickerMoneyPerClickText: {fileID: 0}
+  AutoClickerMoneyPerClickUpgradeCostText: {fileID: 0}
+  MoneyCount: 10000
+  MoneyPerClick: 1
+  ClickUpgradeCost: 100
+  AutoClickerCost: 1000
+  AutoClickerSpeedUpgradeCost: 500
+  AutoClickerSpeed: 1
+  AutoClickerPerLevelSpeedIncrease: 0.10000000149011612
+  MaxAutoClickerUpgradeSpeedLevel: 3
+  AutoClickerMoneyPerClick: 1
+  AutoClickerMoneyPerClickUpgradeCost: 500
+  AutoClickerMaxMoneyPerClickUpgradeLevel: 3
+  AutoClickerMoneyPerClickPerLevelUpgradeIncrease: 1
+  isAutoClickerPurchased: 0
+  currentAutoClickerMoneyPerClickUpgradeLevel: 0
+  currentAutoClickerSpeedUpgradeLevel: 0

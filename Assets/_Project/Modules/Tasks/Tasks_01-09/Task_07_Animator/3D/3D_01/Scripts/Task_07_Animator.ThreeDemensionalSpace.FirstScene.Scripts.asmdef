@@ -1,0 +1,17 @@
+{
+    "name": "Task_07_Animator.ThreeDemensionalSpace.FirstScene.Scripts",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c9889f6325d093d4c945eb709bd17ec3",
+        "GUID:75469ad4d38634e559750d17036d5f7c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

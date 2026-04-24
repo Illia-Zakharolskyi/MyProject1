@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Project/Systems/Bootstrap/Scenes/Bootstrap.unity
+    guid: 4e294b6554b907c428260f4aee887de7
+  - enabled: 1
+    path: Assets/_Project/Modules/Tasks/Tasks_01-09/Task_07_Animator/3D/3D_02/Task_Animator_3DScene_2.unity
+    guid: ff9da6b3f85150347b084842ef840d18
+  - enabled: 1
+    path: Assets/_Project/Modules/Projects/Projects_01-09/01_Clicker/Project_01_BaseClickerGame_MenuScene.unity
+    guid: 1cdc24dafc56caa469c12e275a2c5bd2
+  - enabled: 1
+    path: Assets/_Project/Modules/Projects/Projects_01-09/01_Clicker/Project_01_BaseClickerGame_GameScene.unity
+    guid: 76a8821af8f6dda48940710f309193be
+  - enabled: 1
+    path: Assets/_Project/Modules/Projects/Projects_01-09/02_ApplePicker/Scenes/ApplePicker_MainMenu.unity
+    guid: 9789df42fe6ab02499115217b18b4166
+  - enabled: 1
+    path: Assets/_Project/Modules/Tasks/Tasks_01-09/Task_01_SolarSystem/Task_01_SolarSystem.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/_Project/Modules/Projects/Projects_01-09/02_ApplePicker/Scenes/ApplePicker_Settings.unity
+    guid: a32a864274620e7439c3b1fcbc70b22e
+  - enabled: 1
+    path: Assets/_Project/Modules/Tasks/Tasks_01-09/Task_02_PrefabLevel/Task_02_PrefabLevel.unity
+    guid: 0dd296bca8a978c40a3c862a459d5a7d
+  - enabled: 1
+    path: Assets/_Project/Modules/Tasks/Tasks_01-09/Task_03_3DPlatformer/Task_03_3DPlatformer.unity
+    guid: a7235e6b36bbabb428c704d3aac35430
+  - enabled: 1
+    path: Assets/_Project/Modules/Tasks/Tasks_01-09/Task_04_TerrainTest/Task_04_TerrainTest.unity
+    guid: c9ad69aa19da5404b889a126ff951231
+  - enabled: 1
+    path: Assets/_Project/Modules/Tasks/Tasks_01-09/Task_05_UserInterface/Task_05_UserInterface.unity
+    guid: 2254ab2de7ab2b140b741e448364c0e3
+  - enabled: 1
+    path: Assets/_Project/Modules/Projects/Projects_01-09/02_ApplePicker/Scenes/ApplePicker_GameLevel.unity
+    guid: 09537bb46e94838448622439ec8cc781
+  - enabled: 1
+    path: Assets/_Project/Modules/Projects/Projects_01-09/02_ApplePicker/Scenes/ApplePicker_PauseMenu.unity
+    guid: 05dbf87453883744fa560facacc37445
+  - enabled: 1
+    path: Assets/_Project/Modules/Projects/Projects_01-09/02_ApplePicker/Scenes/ApplePicker_GameOver.unity
+    guid: f6a87269fcb71c247876f4bb8ccf09af
+  m_configObjects:
+    com.unity.adaptivePerformance.basic.provider_settings: {fileID: 11400000, guid: fef2a430a79cb304fb2c6b125a72c757, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 51929d6240a99bc4eb41133d1c56e0f1, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 47b05ebdca82d9940b702d6aaee2ae82, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0

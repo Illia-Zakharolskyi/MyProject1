@@ -1,0 +1,75 @@
+{
+    "version": 1,
+    "name": "Task_07_InputActions",
+    "maps": [
+        {
+            "name": "Player",
+            "id": "0b096938-3665-402e-a73a-da0ca1932f44",
+            "actions": [
+                {
+                    "name": "Interact",
+                    "type": "Button",
+                    "id": "17461779-a0b5-440f-a6d1-9bbde84bf0c4",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Fire1",
+                    "type": "Button",
+                    "id": "05e689d6-cf7f-4461-85cf-faf1bae748d0",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Fire2",
+                    "type": "Button",
+                    "id": "4dd111f5-5d9e-4c7c-9054-295df1bd7dbc",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "277941a6-75e9-4e61-97d4-8141c39f5ece",
+                    "path": "<Keyboard>/e",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Interact",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "86b95fd8-b1f9-4490-89e5-9e750f06eb5e",
+                    "path": "<Keyboard>/t",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Fire1",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "fcd97bfe-3995-4dae-b6af-99c5b5cc2486",
+                    "path": "<Keyboard>/r",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Fire2",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
