@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Tasks-10_19-RaycastSecond
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: Tasks-10_19-RaycastSecond
+  m_GUID: f872e896172179246ad1451c88e6985e
+  m_SerializeEntries:
+  - m_GUID: 27d24b6df6995624eb875856de3b0010
+    m_Address: Task_Raycast_Second_EventBus
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: a05c279c4bbff23448689424d075721c, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 223248d75d497934faf9e384295cf37c, type: 2}
+    - {fileID: 11400000, guid: 5f5c11ef1260339458338dd44bc4e09f, type: 2}

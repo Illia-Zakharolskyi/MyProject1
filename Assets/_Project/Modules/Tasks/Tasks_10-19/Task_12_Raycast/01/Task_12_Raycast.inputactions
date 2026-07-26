@@ -1,0 +1,35 @@
+{
+    "version": 1,
+    "name": "Task_12_Raycast",
+    "maps": [
+        {
+            "name": "Player",
+            "id": "aa0335b7-cd6d-45c0-af8d-06b1151c1729",
+            "actions": [
+                {
+                    "name": "MousePos",
+                    "type": "Value",
+                    "id": "59bd8746-4d35-4a58-93a5-7ebf70fdec48",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "654a03a4-1e18-4138-8c26-d1bf51c93933",
+                    "path": "<Mouse>/position",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "MousePos",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

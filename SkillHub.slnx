@@ -1,0 +1,19 @@
+﻿<Solution>
+  <Project Path="Task.Raycast.Second.csproj" />
+  <Project Path="Projects.ApplePicker.csproj" />
+  <Project Path="Assembly-CSharp-Editor.csproj" />
+  <Project Path="Task_07_Animator.TwoDemensionalSpace.Scripts.csproj" />
+  <Project Path="Project.TowerDefense.Runtime.csproj" />
+  <Project Path="Common.Scripts.csproj" />
+  <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="DOTween.Modules.csproj" />
+  <Project Path="Tasks.SORaycast.csproj" />
+  <Project Path="Task_07_Animator.ThreeDemensionalSpace.FirstScene.Scripts.csproj" />
+  <Project Path="Task_07_Animator.ThreeDemensionalSpace.SecondScene.Scripts.csproj" />
+  <Project Path="Task.NavMesh.csproj" />
+  <Project Path="Task.Raycast.csproj" />
+  <Project Path="Tasks.ParticleSystem.csproj" />
+  <Project Path="Task_02_PrefabLevel.Scripts.csproj" />
+  <Project Path="Task_01_SolarSystem.Scripts.csproj" />
+  <Project Path="Task.CameraLight.csproj" />
+</Solution>

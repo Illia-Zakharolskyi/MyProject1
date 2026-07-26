@@ -1,0 +1,35 @@
+{
+    "version": 1,
+    "name": "Task_Raycast_Second",
+    "maps": [
+        {
+            "name": "Player",
+            "id": "8950b267-1ab4-4276-a605-70d79689b3f7",
+            "actions": [
+                {
+                    "name": "WeaponShoot",
+                    "type": "Button",
+                    "id": "a818d266-6482-466c-8edc-1c725c098475",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "80f1271f-b6b7-41bd-b8c4-32c8700544ba",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "WeaponShoot",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

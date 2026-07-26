@@ -1,0 +1,75 @@
+{
+    "version": 1,
+    "name": "TD_InputActions",
+    "maps": [
+        {
+            "name": "Player",
+            "id": "f8424927-8670-4e9f-8404-ef6c5259dcf6",
+            "actions": [
+                {
+                    "name": "Click",
+                    "type": "Button",
+                    "id": "d496bdd1-bbc6-490c-8041-1667e509e611",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "ClickPos",
+                    "type": "Value",
+                    "id": "ca34fa78-aeb3-4854-aaa0-445addfd93a7",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "CancelTowerPlacement",
+                    "type": "Button",
+                    "id": "91a1a8f8-4658-448d-950f-f4f1af1d8568",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "5fa3e466-f701-4c64-ab4d-50b8f3333a83",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Click",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "2510e093-c017-410d-abdf-c372b336544c",
+                    "path": "<Mouse>/position",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ClickPos",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "a6106a0e-3ff0-48ad-a97a-af0fde482d6d",
+                    "path": "<Mouse>/rightButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "CancelTowerPlacement",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

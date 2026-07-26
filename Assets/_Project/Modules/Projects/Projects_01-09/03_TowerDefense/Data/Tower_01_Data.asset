@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3d5695f224aa11429546357ed3c84fd, type: 3}
+  m_Name: Tower_01_Data
+  m_EditorClassIdentifier: Project.TowerDefense.InTesting::Project.TowerDefense.InTesting.TowerDataTesting
+  towerName: Tower 01
+  prefab: {fileID: 807676313660897542, guid: bcbbbab66dcebea4e82f352ffb5645f7, type: 3}
+  ghostPrefab: {fileID: 6207249330792878364, guid: c7700591fa87e5347a5baf8ca747504c, type: 3}
+  cost: 25
+  size: {x: 1, y: 1}
+  attackRange: 8

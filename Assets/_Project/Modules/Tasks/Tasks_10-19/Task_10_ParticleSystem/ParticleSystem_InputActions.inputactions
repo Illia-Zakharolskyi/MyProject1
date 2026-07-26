@@ -1,0 +1,35 @@
+{
+    "version": 1,
+    "name": "ParticleSystem_InputActions",
+    "maps": [
+        {
+            "name": "Player",
+            "id": "848f0549-d0dd-478d-adf5-2f4a8d6be543",
+            "actions": [
+                {
+                    "name": "ObjectInteraction",
+                    "type": "Button",
+                    "id": "84c508d9-ba1d-4780-98d2-0ce176ef62ea",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "2247cfae-a6d5-485d-b9a5-16cb1509a588",
+                    "path": "<Keyboard>/e",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ObjectInteraction",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

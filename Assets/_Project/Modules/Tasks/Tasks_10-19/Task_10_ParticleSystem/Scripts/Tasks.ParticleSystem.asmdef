@@ -1,0 +1,18 @@
+{
+    "name": "Tasks.ParticleSystem",
+    "rootNamespace": "Tasks.ParticleSystem",
+    "references": [
+        "GUID:c236ee9db7c1da44c8285ffab4ffe048",
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:c9889f6325d093d4c945eb709bd17ec3"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
